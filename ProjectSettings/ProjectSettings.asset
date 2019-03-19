@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 4e8116a1c514aeb43af081d48d27cdcb
+  productGUID: 0067217bf39947d49bcf4c52f4bf796c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Minesweeper
+  productName: Game Systems Week 2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -648,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 4d3ae66d-b9de-4b2d-9ab1-d2864d5cbd62
-  projectName: Minesweeper
+  cloudProjectId: acd2f79b-1220-4b85-a572-a623e7a65712
+  projectName: Game Systems Week 2
   organizationId: cdrsamvimes
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
